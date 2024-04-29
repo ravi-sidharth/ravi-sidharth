@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi! Great to see you here!</h1>
-<h3 align="center">i am learning passionate full stack development from India.</h3>
+<h3 align="center">I am learning passionate full stack development from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-sidharth&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-sidharth" /> </p>
 
