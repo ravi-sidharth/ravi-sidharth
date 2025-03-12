@@ -1,30 +1,32 @@
+```plaintext
+╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Ravi Sidharth
+║ I'm a passionate Full Stack Developer from India.         ║ ┣━━ 💻 Web development
+║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Node, MongoDB, Express
+║ My areas of interest are Full Stack Development, API      ║ ┃   ┣━━ ⭐ Python
+║ Design, Cloud, and modern web technologies.               ║ ┃   ┗━━ ⭐ C, HTML, CSS, TailwindCSS
+║                                                           ║ ┣━━ 🔧 Version Control & Tools
+║ Currently learning the MERN stack and exploring new       ║ ┃   ┣━━ ⭐ Git, GitHub, VS Code, Postman
+║ opportunities to apply my skills in exciting projects.    ║ ┃   ┗━━ ⭐ Linux (Ubuntu)
+╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Problem-Solver
+```
 
-<h1 align="center">Hi 👋, I'm Ravi! Great to see you here!</h1>
-<h3 align="center">I am learning passionate full stack development from India.</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ravi-sidharth/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:thenewravy@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/ravi_x06/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/raviravi23" target="_blank"><img alt="Codechef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+</div>
 
-<img align="right" alt="coding" width=400px src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+___
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-sidharth&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-sidharth" /> </p>
+### Languages and tools I work with
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **C,HTML5,CSS,JavaScript**
-
-- 📫 How to reach me **thenewravy@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OC1RRkqjlPuyKE5lRCuRQA9Ycekhl0wUpTuAJrXot9U/edit?usp=sharing](https://docs.google.com/document/d/1OC1RRkqjlPuyKE5lRCuRQA9Ycekhl0wUpTuAJrXot9U/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-kumar-27394a2bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravi-kumar-27394a2bb" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raviravi23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raviravi23" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ravi-sidharth">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,express,tailwind,python,git,github,postman,linux,vscode">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-sidharth&show_icons=true&locale=en&layout=compact" alt="ravi-sidharth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-sidharth&show_icons=true&locale=en" alt="ravi-sidharth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-sidharth&" alt="ravi-sidharth" /></p>
